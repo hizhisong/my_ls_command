@@ -1,4 +1,13 @@
+## Language (语言)
+
+* [Chinese Doc  中文文档](##中文文档 (Chinese Doc))
+
+* [English Doc  英文文档](##English Doc (英文文档))
+
+  
+
 ## 中文文档 (Chinese Doc)
+
 ### 功能实现
 实现了ls的 -a -l -r -t -R功能
 存在的问题：
